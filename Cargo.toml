@@ -1,0 +1,9 @@
+[package]
+name = "run_nannou_tests"
+version = "0.1.0"
+authors = ["mindbuffer"]
+edition = "2018"
+
+[dependencies]
+walkdir = "2.2"
+rayon = "1.0"
